@@ -1,7 +1,6 @@
 # Ivan Ivanov
 
 📸 ![Photo](моё фота)
-*(замените на реальную ссылку на фото или добавьте файл фото в репозиторий и ссылайтесь на него)*
 
 ## Contact
 - Email: ivan.ivanov@example.com
@@ -21,3 +20,7 @@ I focus on clean code and teamwork. Currently looking for an internship.
 ```python
 def greet(name):
     return f"Hello, {name}!"
+def calc(number):
+    return number*2
+def down(cos):
+    return cos/19
