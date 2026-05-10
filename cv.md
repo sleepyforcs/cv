@@ -5,7 +5,7 @@
 ## Contact
 - Email: ivan.ivanov@example.com
 - GitHub: [github.com/ivan123](https://github.com/ivan123)
-- Telegram: @ivan123
+- Telegram: @happyforcs
 
 ## Summary
 I am a junior developer with a strong desire to learn new technologies.  
