@@ -1,6 +1,6 @@
 # Ivan Ivanov
 
-📸 ![Photo](https://via.placeholder.com/150?text=Your+Photo)  
+📸 ![Photo](моё фота)
 *(замените на реальную ссылку на фото или добавьте файл фото в репозиторий и ссылайтесь на него)*
 
 ## Contact
